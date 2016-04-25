@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hephaestionisenc00hephuoft_0435.png"; bbox 0 0 2060 3168; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 950 1084 1014 1138">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 950 1084 1014 1138">
+     <span class='ocr_line' id='line_1_1' title="bbox 950 1084 1014 1138; baseline 0.016 -1"><span class='ocrx_word' id='word_1_1' title='bbox 950 1084 1014 1138; x_wconf 90' lang='lat' dir='ltr'><strong>V.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 339 1245 1615 1328">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 339 1245 1615 1328">
+     <span class='ocr_line' id='line_1_2' title="bbox 339 1245 1615 1328; baseline 0 -2"><span class='ocrx_word' id='word_1_2' title='bbox 339 1245 1013 1326; x_wconf 83' lang='lat' dir='ltr'><strong>FRAGMENTUM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1066 1245 1198 1327; x_wconf 91' lang='lat' dir='ltr'><strong>AN</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1208 1246 1615 1328; x_wconf 90' lang='lat' dir='ltr'>ONYMUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 137 1393 1817 1567">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 137 1393 1817 1567">
+     <span class='ocr_line' id='line_1_3' title="bbox 647 1393 1297 1467; baseline -0.002 -19"><span class='ocrx_word' id='word_1_5' title='bbox 647 1393 715 1465; x_wconf 81' lang='lat' dir='ltr'><strong>(s,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 742 1410 790 1447; x_wconf 87' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 817 1393 952 1447; x_wconf 69' lang='lat' dir='ltr'><strong>Onu.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 979 1410 1030 1447; x_wconf 79' lang='lat' dir='ltr'><strong>N.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1054 1394 1082 1448; x_wconf 96' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_10' title='bbox 1106 1394 1297 1467; x_wconf 75' lang='lat' dir='ltr'>Ex&#39;rR.)</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 137 1511 1817 1567; baseline 0 -1"><span class='ocrx_word' id='word_1_11' title='bbox 137 1511 223 1566; x_wconf 91' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 269 1511 773 1566; x_wconf 80' lang='lat' dir='ltr'>OXYRHYNCHI</span> <span class='ocrx_word' id='word_1_13' title='bbox 818 1511 1105 1566; x_wconf 86' lang='lat' dir='ltr'><strong>PAPYRO</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1158 1512 1349 1567; x_wconf 86' lang='lat' dir='ltr'>CCXX</span> <span class='ocrx_word' id='word_1_15' title='bbox 1402 1512 1817 1567; x_wconf 85' lang='lat' dir='ltr'><strong>SERVATUM</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

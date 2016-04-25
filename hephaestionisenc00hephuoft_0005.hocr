@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hephaestionisenc00hephuoft_0005.png"; bbox 0 0 2118 3162; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 812 1147 1264 1207">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 812 1147 1264 1207">
+     <span class='ocr_line' id='line_1_1' title="bbox 812 1147 1264 1207; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 812 1147 1264 1207; x_wconf 84' lang='lat' dir='ltr'><strong>MEMORIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 295 1331 1787 1547">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 295 1331 1787 1547">
+     <span class='ocr_line' id='line_1_2' title="bbox 295 1331 1787 1400; baseline 0.001 -2"><span class='ocrx_word' id='word_1_2' title='bbox 295 1331 800 1399; x_wconf 80' lang='lat' dir='ltr'>GUILELMI</span> <span class='ocrx_word' id='word_1_3' title='bbox 863 1331 1787 1400; x_wconf 76' lang='lat' dir='ltr'><strong>HOERSOHELMANN</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 444 1479 1640 1547; baseline 0.001 -1"><span class='ocrx_word' id='word_1_4' title='bbox 444 1479 950 1547; x_wconf 83' lang='lat' dir='ltr'>GUILELMI</span> <span class='ocrx_word' id='word_1_5' title='bbox 1015 1479 1640 1547; x_wconf 75' lang='lat' dir='ltr'>STUDEMUND</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1018 1669 1069 1723">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1018 1669 1069 1723">
+     <span class='ocr_line' id='line_1_4' title="bbox 1018 1669 1069 1723; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 1018 1669 1069 1723; x_wconf 82' lang='lat' dir='ltr'><strong>S.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
